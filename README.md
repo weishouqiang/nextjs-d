@@ -8,4 +8,7 @@ nvm use v20.10.0
 npm i
 npm i --force
 npm run dev
+#问题记录
+1、依赖安装 提示找不到版本号
+请使用taobao源 nrm use taobao,没有nrm请手动切换源
 
